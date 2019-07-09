@@ -20,5 +20,4 @@ var sentence = 'good afternoon, mr mike.';
 // 完成下面程序，将money变量中的金额提取出来，输出：20。
 var money = '￥20';
 //TODO write your code here...
-var money = '￥20'; 
 console.log(money.substring(1,money.length)); 
